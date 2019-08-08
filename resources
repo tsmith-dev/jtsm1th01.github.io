@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" /> 
+<link href="https://fonts.googleapis.com/css?family=Lalezar|Poiret+One|Raleway" rel="stylesheet">
+
+<html>
+<body>
+<div class="container">
+	<div class="row">
+	  <div class="col-md-12">
+		  <div class="page-header">
+        <h1>Travis Smith</br><small>Software Developer Specializing in Ruby on Rails and Java</small></h1>
+      </div>
+    </div>    
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<h3>What I'm working on now...</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p>Tutorials:</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">		
+			<p><a href="https://www.udemy.com/java-the-complete-java-developer-course">The Complete Java Developer Course</a> by Tim Buchalka on Udemy.</p>
+			<p><a href="https://www.udemy.com/the-complete-ruby-on-rails-developer-course">The Complete Ruby on Rails Developer Course</a> by Mashrur Hossain and Rob Percival on Udemy.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p>Books:</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p><a href="https://www.amazon.com/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=sr_1_3?ie=UTF8&qid=1469738483&sr=8-3&keywords=java+se+8+exam"> OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808</a> by Jeanne Boyarsky and Scott Selikoff</p>
+			<p><a href="http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1464205238&sr=8-1&keywords=head+first+java"> Head First Java, 2nd Edition</a> by Kathy Sierra and Bert Bates</p>
+		</div>
+	</div>
+  <div class="row">
+	  <div class="col-md-12">
+	    <div class="panel panel-default">
+        <div class="panel-footer">
+          <p>This page inspired by the <a href="https://sivers.org/nowff">/now page</a> movement.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
